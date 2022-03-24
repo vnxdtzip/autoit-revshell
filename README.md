@@ -4,7 +4,7 @@
     <img src="https://i.imgur.com/4Rapnym.png" alt="Logo" width="500" height="200">
   </a>
 
-  <h3 align="center">Offensive AutoIt</h3>
+  <h3 align="center">Hacking AutoIt</h3>
 
   <p align="center">
     Simple AutoIt tools for offensive security.
