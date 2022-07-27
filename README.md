@@ -10,7 +10,6 @@
     Simple AutoIt tools for offensive security.
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">Author Linkedin</a>
   </p>
 </div>
 <br>
